@@ -1,0 +1,7 @@
+{
+  "name": "MediBot Virtual Doct",
+  "description": "A HIPAA-compliant style virtual medical assistant for symptom intake, triage, and preliminary guidance using Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
